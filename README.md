@@ -1,0 +1,1 @@
+I created an English to Urdu Translator using Streamlit and Googletrans library. The app takes English text input from the user, sends it to the translator, and instantly shows the Urdu translation on the screen. It’s a simple project that demonstrates how to integrate NLP tools into a user-friendly web app
